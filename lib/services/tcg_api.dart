@@ -95,6 +95,7 @@ class TcgApi {
       {
         "id": "base1-49",
         "name": "Bellsprout",
+        
         "images": {
           "small": "https://images.pokemontcg.io/base1/49.png",
           "large": "https://images.pokemontcg.io/base1/49_hires.png"
